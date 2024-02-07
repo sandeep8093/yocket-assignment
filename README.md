@@ -32,3 +32,10 @@ Screens are developed for the start/landing page, city selection, vehicle select
 The UI is responsive.
 The result page indicates the capture status and, if successful, displays the capturing cop's name.
 Basic styling and user interactions are implemented.
+
+Hosted Links :
+Below are the hosted and deployed links:
+Github server Link:https://github.com/sandeep8093/yocket-assignment
+Server hosted link: https://yocket-assignment.onrender.com/
+Github Client Link: https://github.com/sandeep8093/yocket-assignment-client
+Hosted client: https://cheerful-paprenjak-df8d04.netlify.app/
